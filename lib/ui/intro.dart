@@ -129,7 +129,7 @@ class _IntroState extends State<Intro> {
                         '+ Nhận thông báo từ trường\n'
                         '+ Xem báo cáo điểm + GPA\n'
                         '+ Hướng dẫn làm các loại thủ tục tại trường\n'
-                        '+ Và nhiều hơn nữa...',
+                        '+ Và nhiều hơn nữa....',
                     style: TextStyle(
                       color: Color(0xffBCC7D1),
                       fontSize: 16.0,
